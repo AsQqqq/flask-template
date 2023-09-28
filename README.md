@@ -1,12 +1,13 @@
-# Template flask
+# Flask template for hackathon
 
-## install lib
+## Installing Libraries
 + install flask
     + `pip install flask`
 + install colorama
     + `pip install colorama`
 
-## log install 
-+ create folder
-    + create folder `log`
-    + create `logs.txt` in `log` folder
+## Setting up logging
++ Create a folder in the root directory called
+    + `log`
++ In this folder we create a file
+    + `logs.txt`
